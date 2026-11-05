@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(178, 193, 241);
+}
+p {
+    font-style: italic;
+}
+#sp1 {
+    font-weight: bolder;
+    background-color: rgb(180, 228, 108);
+    color: rgb(52, 137, 21);
+}
+h3 {
+    font-weight: bolder;
+    font-size: 20px;
+}
+#p2 {
+    color: rgb(171, 185, 255);
+    background-color: rgb(77, 77, 160);
+}
+h1 {
+    color: brown;
+}
+a {
+    color: brown;
+    text-decoration: underline wavy;
+}
