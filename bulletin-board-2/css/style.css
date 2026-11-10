@@ -1,0 +1,29 @@
+/*
+    NOTE TO STUDENTS: 
+
+    This is the file you should be writing your CSS in 
+    for the Bulletin Board assignment.
+
+    Good luck, and have fun!
+*/
+.periwinkle {
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    margin: 24px; 
+    padding: 24px;
+    font-family: cursive;
+    display: block;
+}
+.polaroid {
+    display: block;
+    background-color: yellow;
+    padding: 5px 5px 20px;
+    font-family: cursive;
+    font-size: 0.7rem;
+    width: 200px;
+    height: 250px;
+    margin: 24px; 
+    padding: 24px;
+    position: relative;
+}
