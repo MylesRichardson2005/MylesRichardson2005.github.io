@@ -1,0 +1,25 @@
+div {
+    background-color: #1687E2;
+    display: inline-block;
+    border-radius: 30px;
+    color: white;
+    padding: 12px;
+    margin: 12px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+img {
+    vertical-align: middle;
+    width: 60px;
+}
+p {
+    display: inline-block;
+    vertical-align: middle;
+}
+#time {
+    margin-left: 12px;
+    margin-right: 12px;
+}
+#date {
+    font-size: small;
+}
