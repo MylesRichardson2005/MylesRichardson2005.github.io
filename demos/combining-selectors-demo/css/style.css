@@ -1,0 +1,21 @@
+#navbar {
+    background-color: blue;
+    padding: 24px;
+    text-align: center;
+}
+div a {
+    color: white;
+}
+p a {
+    color: rgb(141, 35, 240);
+}
+a.warning  {
+    color: #f5a500;
+}
+p.warning {
+    background-color: rgb(57, 208, 57);
+}
+p a {
+    color: rgb(143, 32, 248);
+    font-size: larger;
+}
