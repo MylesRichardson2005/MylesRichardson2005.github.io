@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Italianno&family=Press+Start+2P&display=swap');
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.single-column {
+    text-align: center;
+}
+header {
+    border-color: #80000b;
+    border-radius: 10px solid #80000b;
+    padding: 25px 0px;
+    text-align: center;
+}
+h1 {
+    font-family: "Italianno", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100px;
+    text-decoration: none;
+    color: #80000b;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+nav a {
+    padding: 12px 24px;
+    margin: 0px 10px;
+    text-decoration: none;
+    color: #80000b;
+    text-align: center;
+    
+}
+.btn {
+    border: 1px solid #80000b;
+    border-radius: 10px;
+    padding: 12px 24px;
+    text-decoration: none;
+    background-color: #80000b;
+    color: #fff;
+    display: inline-block;
+    
+}
+.btn:hover {
+    background-color: white;
+    border-width: 1.5px;
+    border-color: #80000b;
+    color: #80000b;
+}
+p {
+    background-color: #e8e8e8;
+    padding: 12px 24px;
+    text-align: center;
+}
+.where-to-buy {
+    text-align: center;
+}
+.whitebtn {
+    color: white;
+    background-color: transparent;
+    border: 1.5px solid white;
+    border-radius: 5px;
+    padding: 5px 5px;
+    text-decoration: none;
+}
+.whitetxt {
+    color: white;
+    background-color: #80000b;
+}
+img {
+    padding: 10px 10px;
+}
